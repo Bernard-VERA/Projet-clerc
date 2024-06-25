@@ -6,20 +6,20 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #000000;
+    background-color: #dbeff0;
     display: flex;
     flex-direction: column;
     margin-top: 15px;
     align-items: center;
   }
   .footer .footer-logo {
-    margin-top: 66px;
-    width: 250px;
+    margin-top: 40px;
+    width: 150px;
   }
   .footer .footer-text {
-    color: #1c87ef;
+    color: #191ba9;
     font-size: 24px;
-    margin-top: 50px;
+    margin-top: 35px;
   }
   
   @media screen and (max-width: 768px) {
