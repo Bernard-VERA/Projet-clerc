@@ -23,7 +23,7 @@
   .header-container .navbar .navlink :focus {
     text-decoration-line: underline;
     text-underline-position: under;
-    color: #000000;
+    color: #191ba9;
   }
   .header-container .navbar .nav {
     color: #191ba9;

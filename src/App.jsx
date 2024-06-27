@@ -8,11 +8,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-        <p>
-          Bonjour
-        </p>
        
-      
       <main>
     <Routes>
         <Route path="/" element={<Home />} />  
