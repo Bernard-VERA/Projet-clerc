@@ -1,0 +1,25 @@
+[
+    {
+        "id": "a0001",
+        "title": "Un peu d'histoire",
+        "cover": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
+        "picture": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
+        "description": "C'est au Moyen Age qu'apparaissent "
+    },
+
+    {
+        "id": "b0002",
+        "title": "Le rôle de l'huissier",
+        "cover": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
+        "picture": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
+        "description": "L' huissier de justice est un officier ministériel"
+    },
+
+    {
+       "id": "c0003",
+        "title": "L'utilité du clerc",
+        "cover": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
+        "picture": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
+        "description": "Au départ, l'huissier devait tout faire seul.Le clerc doit être assermenté. Il prête serment, sans frais, devant le juge d'instance dans le ressort duquel réside le titulaire de l'étude à laquelle il est attaché. L'huissier sera civilement responsable des nullités, amendes, restitutions, dépens et dommages-intérêts encourus du fait des clercs assermentés et des huissiers dans l'exercice de leurs suppléances."
+    }
+]
