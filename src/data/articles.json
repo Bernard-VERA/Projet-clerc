@@ -4,7 +4,9 @@
         "title": "Un peu d'histoire",
         "cover": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
         "picture": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
-        "description": "C'est au Moyen Age qu'apparaissent "
+        "description1": "C'est au Moyen Age qu'apparaissent les premiers sergents et huissiers. Les différentes juridictions qui émergent, qu'elles soient seigneuriales, ecclésiastiques ou royales, ont besoin d'une diversité d'agents assermentés ayant une autorité suffisante pour faire exécuter leurs décisions. Les sergents qui s'occupaient plus particulièrement des significations dans les juridictions seigneuriales, devaient mettre en forme les demandes des plaideurs et exécuter les décisions rendues par les juges. Les huissiers, quant à eux ( dont le nom vient de « l'huis », la porte ), avaient la mission du service intérieur des audiences et de la police des tribunaux. Progressivement, les sergents furent relégués aux juridictions de second ordre alors que les huissiers devinrent les officiers des juridictions les plus importantes.",
+        "description2": "Un arrêt du 22 Thermidor an VIII, ordonne que chaque tribunal doit indiquer le nombre d'huissiers qui lui est nécessaire, permettant ainsi au pouvoir central de règlementer cette catégorie professionnelle. Ainsi apparut une ébauche du statut de l'huissier, renforcée par un décret impérial, datant du 14 juin 1813. Celui-ci reprenait d'ailleurs certains textes anciens pour déterminer par exemple le mode de nomination des huissiers et pour fixer les connaissances requises ainsi que les attributions exactes de ces officiers.",
+        "description3": "Le statut actuel des Huissiers de Justice résulte d'une ordonnance du 2 novembre 1945 et d'un décret d'application du 29 février 1956, plusieurs fois modifiés : ces textes précisent leur statut et autorisent leur groupement ou leur association, fixent les limites de leur monopole et les conditions de leur responsabilité professionnelle."
     },
 
     {
@@ -12,7 +14,10 @@
         "title": "Le rôle de l'huissier",
         "cover": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
         "picture": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
-        "description": "L' huissier de justice est un officier ministériel"
+        "description1": "L' huissier de justice est un officier ministériel, titulaire de sa fonction grâce à une charge acquise avec l'agrément des pouvoirs publics, et détenant le monopole de la signification des actes de procédure. Les actes signifiés par huissier sont opposables à tous et ont valeur d'acte authentique. L'huissier de justice est aussi chargé de l'exécution des décisions de justice.",
+        "description2": "L'huissier peut être requis pour établir des constats matériels, soit à la demande de la justice (pour constater des faits matériels qui peuvent servir de renseignements utiles dans le cadre d'une procédure judiciaire), soit à la demande d'un particulier (par exemple pour dresser un constat d'adultère, pour établir un état des lieux, pour constater un trouble de voisinage, ou pour garantir le caractère équitable d'un concours ou d'une loterie publicitaire). Enfin, étant habilité à procéder au recouvrement amiable ou judiciaire de toute créance, l'huissier de justice peut procéder à des saisies et à des opérations d'expulsion.",
+        "description3": "Les huissiers audienciers, travaillent dans les tribunaux. Ils ont pour mission d'assister aux audiences pour faire l'appel des causes et maintenir l'ordre sous l'autorité du président. Ils assurent également les significations des actes d'avocat à avocat (assignations, conclusions).",
+        "description4": "De nos jours, en application de la loi n°2015-990 du 6 août 2015, les huissiers peuvent: D’une part, établir sur l’ensemble du territoire national des procès-verbaux de constat, alors qu'ils étaient auparavant limités, pour ce faire, au ressort de leur compétence territoriale. D’autre part, effectuer des significations d’actes et procéder à l’exécution forcée des décisions de justice dans l’entier ressort de la Cour d’appel dans lequel l’huissier est établi, et non plus seulement dans le ressort du Tribunal de Grande Instance, comme c’était le cas auparavant. Cette extension, s’applique à toutes les activités des huissiers faisant l’objet d’une limitation territoriale de compétence."
     },
 
     {
@@ -20,6 +25,9 @@
         "title": "L'utilité du clerc",
         "cover": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
         "picture": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
-        "description": "Au départ, l'huissier devait tout faire seul.Le clerc doit être assermenté. Il prête serment, sans frais, devant le juge d'instance dans le ressort duquel réside le titulaire de l'étude à laquelle il est attaché. L'huissier sera civilement responsable des nullités, amendes, restitutions, dépens et dommages-intérêts encourus du fait des clercs assermentés et des huissiers dans l'exercice de leurs suppléances."
+        "description1": "Au départ, l'huissier devait tout faire seul. En effet, la loi ne prévoyait rien et l'huissier était censé réaliser tout son travail seul. Cela devint rapidement impossible et les huissiers utilisèrent de plus en plus d'employés qu'ils nommaient CLERCS. Une loi du 27 Décembre 1923 a ratifié cet usage, créant officiellement le métier de CLERC D'HUISSIER. Ce texte est toujours en vigueur, même s'il a été remanié en 1959 et en 1972.",
+        "description2": "En France, il existe environ 3500 huissiers de justice, qui emploient 11000 clercs. Certains huissiers travaillent seuls; d'autres ont un seul clerc; d'autres encore, emploient plusieurs clercs. Le clerc soulage l'huissier d'une partie de son travail, mais certaines actions lui sont interdites. Elles relèvent de la compétence exclusive de l'huissier (La signature des actes, par exemple). Le clerc doit être assermenté. Il prête serment, sans frais, devant le juge d'instance dans le ressort duquel réside le titulaire de l'étude à laquelle il est attaché. L'huissier sera civilement responsable des nullités, amendes, restitutions, dépens et dommages-intérêts encourus du fait des clercs assermentés et des huissiers dans l'exercice de leurs suppléances."
+
+
     }
 ]
