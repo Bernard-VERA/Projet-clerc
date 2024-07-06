@@ -27,6 +27,7 @@ const Article = () => {
                     <p className='article-page-header-infos-subtitle'>{article.description2}</p>
                     <p className='article-page-header-infos-subtitle'>{article.description3}</p>
                     <p className='article-page-header-infos-subtitle'>{article.description4}</p>
+                    <p className='article-page-header-infos-subtitle'>{article.description5}</p>
                 </article>   
             </header>
             <main className='article-main'>

@@ -2,8 +2,8 @@
     {
         "id": "a0001",
         "title": "Un peu d'histoire",
-        "cover": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
-        "picture": "https://images2.imgbox.com/20/1b/JeSegYcv_o.jpg",
+        "cover": "https://images2.imgbox.com/a5/fc/ZYAm1xtn_o.jpg",
+        "picture": "https://images2.imgbox.com/a5/fc/ZYAm1xtn_o.jpg",
         "description1": "C'est au Moyen Age qu'apparaissent les premiers sergents et huissiers. Les différentes juridictions qui émergent, qu'elles soient seigneuriales, ecclésiastiques ou royales, ont besoin d'une diversité d'agents assermentés ayant une autorité suffisante pour faire exécuter leurs décisions. Les sergents qui s'occupaient plus particulièrement des significations dans les juridictions seigneuriales, devaient mettre en forme les demandes des plaideurs et exécuter les décisions rendues par les juges. Les huissiers, quant à eux ( dont le nom vient de « l'huis », la porte ), avaient la mission du service intérieur des audiences et de la police des tribunaux. Progressivement, les sergents furent relégués aux juridictions de second ordre alors que les huissiers devinrent les officiers des juridictions les plus importantes.",
         "description2": "Un arrêt du 22 Thermidor an VIII, ordonne que chaque tribunal doit indiquer le nombre d'huissiers qui lui est nécessaire, permettant ainsi au pouvoir central de règlementer cette catégorie professionnelle. Ainsi apparut une ébauche du statut de l'huissier, renforcée par un décret impérial, datant du 14 juin 1813. Celui-ci reprenait d'ailleurs certains textes anciens pour déterminer par exemple le mode de nomination des huissiers et pour fixer les connaissances requises ainsi que les attributions exactes de ces officiers.",
         "description3": "Le statut actuel des Huissiers de Justice résulte d'une ordonnance du 2 novembre 1945 et d'un décret d'application du 29 février 1956, plusieurs fois modifiés : ces textes précisent leur statut et autorisent leur groupement ou leur association, fixent les limites de leur monopole et les conditions de leur responsabilité professionnelle."
@@ -12,8 +12,8 @@
     {
         "id": "b0002",
         "title": "Le rôle de l'huissier",
-        "cover": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
-        "picture": "https://images2.imgbox.com/64/08/PjfTjsVN_o.jpg",
+        "cover": "https://images2.imgbox.com/3e/42/DYrT22cT_o.jpg",
+        "picture": "https://images2.imgbox.com/3e/42/DYrT22cT_o.jpg",
         "description1": "L' huissier de justice est un officier ministériel, titulaire de sa fonction grâce à une charge acquise avec l'agrément des pouvoirs publics, et détenant le monopole de la signification des actes de procédure. Les actes signifiés par huissier sont opposables à tous et ont valeur d'acte authentique. L'huissier de justice est aussi chargé de l'exécution des décisions de justice.",
         "description2": "L'huissier peut être requis pour établir des constats matériels, soit à la demande de la justice (pour constater des faits matériels qui peuvent servir de renseignements utiles dans le cadre d'une procédure judiciaire), soit à la demande d'un particulier (par exemple pour dresser un constat d'adultère, pour établir un état des lieux, pour constater un trouble de voisinage, ou pour garantir le caractère équitable d'un concours ou d'une loterie publicitaire). Enfin, étant habilité à procéder au recouvrement amiable ou judiciaire de toute créance, l'huissier de justice peut procéder à des saisies et à des opérations d'expulsion.",
         "description3": "Les huissiers audienciers, travaillent dans les tribunaux. Ils ont pour mission d'assister aux audiences pour faire l'appel des causes et maintenir l'ordre sous l'autorité du président. Ils assurent également les significations des actes d'avocat à avocat (assignations, conclusions).",
@@ -21,13 +21,41 @@
     },
 
     {
-       "id": "c0003",
+        "id": "c0003",
         "title": "L'utilité du clerc",
-        "cover": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
-        "picture": "https://images2.imgbox.com/23/bd/hrBy2ZGT_o.jpg",
+        "cover": "https://images2.imgbox.com/ab/09/TT1D3885_o.jpg",
+        "picture": "https://images2.imgbox.com/ab/09/TT1D3885_o.jpg",
         "description1": "Au départ, l'huissier devait tout faire seul. En effet, la loi ne prévoyait rien et l'huissier était censé réaliser tout son travail seul. Cela devint rapidement impossible et les huissiers utilisèrent de plus en plus d'employés qu'ils nommaient CLERCS. Une loi du 27 Décembre 1923 a ratifié cet usage, créant officiellement le métier de CLERC D'HUISSIER. Ce texte est toujours en vigueur, même s'il a été remanié en 1959 et en 1972.",
         "description2": "En France, il existe environ 3500 huissiers de justice, qui emploient 11000 clercs. Certains huissiers travaillent seuls; d'autres ont un seul clerc; d'autres encore, emploient plusieurs clercs. Le clerc soulage l'huissier d'une partie de son travail, mais certaines actions lui sont interdites. Elles relèvent de la compétence exclusive de l'huissier (La signature des actes, par exemple). Le clerc doit être assermenté. Il prête serment, sans frais, devant le juge d'instance dans le ressort duquel réside le titulaire de l'étude à laquelle il est attaché. L'huissier sera civilement responsable des nullités, amendes, restitutions, dépens et dommages-intérêts encourus du fait des clercs assermentés et des huissiers dans l'exercice de leurs suppléances."
+    },
 
+    {
+        "id": "d0004",
+        "title": "Les différents clercs",
+        "cover": "https://images2.imgbox.com/1d/fc/Yu08TKNN_o.jpg",
+        "picture": "https://images2.imgbox.com/1d/fc/Yu08TKNN_o.jpg",
+        "description1": "Le clerc significateur: Il est chargé de remettre les actes et décisions de justice (appelés significations) aux personnes concernées. Lorsque ces dernières sont introuvables, le clerc doit enquêter auprès du voisinage et de la mairie pour les retrouver. Il existe une procédure de remise de l'acte trés précise et rigoureuse. Si elle n'est pas respectée, cette procédure peut aboutir à la nullité de l'acte. Le clerc significateur est constamment en déplacement pour remettre en mains propres les actes à leurs destinataires. Pour devenir clerc significateur, aucun diplôme n'est requis. Le plus souvent c'est l'huissier lui-même qui forme son clerc. Le clerc significateur est en contact direct avec les débiteurs et créanciers. Les dossiers étant souvent délicats, le clerc doit donc se montrer particulièrement diplomate avec ses interlocuteurs. Il doit aussi savoir écouter et gérer les conflits.",
+        "description2": "Le clerc aux procédures: Il suit les dossiers au quotidien. C'est lui qui reçoit les créanciers et les débiteurs, auprès desquels il joue un rôle de conseil. Il rédige les actes et assure le suivi financier des dossiers. La rédaction des actes d'huissier est un travail trés important: certaines mentions doivent obligatoirement y figurer, sous peine de nullité de l'acte. L'huissier valide l'acte en y apposant sa signature, lui donnant ainsi la valeur d'acte authentique. Le clerc aux procédures ne bouge généralement pas de l'étude. Il suit avec soin les dossiers et doit veiller au respect rigoureux des procédures et des délais. Le clerc aux procédures est responsable de ses dossiers (de la mise en demeure jusqu'aux négociations pour les arrangements à l'amiable) et ne sollicite l'huissier qu'en cas de difficulté. En principe, le niveau du Bac est demandé lors de l'embauche. Quelques connaissances en Droit seront utiles, pour comprendre tous les mécanismes des procédures, aussi bien en droit civil, qu'en droit pénal. Certains huissiers exigent que le clerc soit titulaire d'un certificat de qualification professionnelle.",
+        "description3": "Le clerc expert: Il encadre les clercs aux procédures et les clercs significateurs. Il est responsable du choix des procédures, de la production des actes et du suivi des dossiers les plus compliqués : baux, cessions de créance, hypothèques, procédures immobilières, etc. En principe, son niveau d'étude est bac + 4 (Master en Droit). De bonnes connaissances en droit sont obligatoires, car il doit parfaitement maîtriser les procédures. Le Clerc expert peut être titulaire du certificat de qualification professionnelle de clerc expert, ce qui lui permet de remplacer l'huissier pour établir des constats.",
+        "description4": "Le clerc principal: C'est un juriste qualifié. Il est le collaborateur direct de l'huissier, maîtrisant parfaitement la procédure civile et la gestion des dossiers. Il s'occupe de la gestion comptable et administrative de l'étude. Il est aussi responsable de la gestion du personnel de l'étude. Le clerc principal à un niveau Bac + 5, et est souvent titulaire de l'examen professionnel d'huissier.",
+        "description5": "Conclusion : Comme vous pouvez l'imaginer, tout cela est théorique. En effet, dans les petites études, il n'y a souvent qu'un seul clerc. Ce dernier doit donc savoir tout faire par lui-même: Recevoir les créanciers, décider de la procédure à suivre, rédiger les actes et aller les signifier lui-même. Tout cela sous la surveillance de l'huissier, bien entendu. Dans les études plus importantes, les clercs sont plus nombreux, et peuvent se partager le travail, ou se cantonner à une seule activité. L'huissier de justice peut aussi employer du personnel n'ayant pas la qualité de clerc : Standardiste, secretaire, opératrice de saisie, femme de ménage."
+    },
 
+    {
+        "id": "e0005",
+        "title": "La formation des clercs",
+        "cover": "https://images2.imgbox.com/54/6c/FUXs4Zy4_o.jpg",
+        "picture": "https://images2.imgbox.com/54/6c/FUXs4Zy4_o.jpg",
+        "description1": "Article en cours de rédaction",
+        "description2": "Prochainement disponible"
+    },
+
+    {
+        "id": "f0006",
+        "title": "Définition",
+        "cover": "https://images2.imgbox.com/1f/f8/5MxjMfjs_o.jpg",
+        "picture": "https://images2.imgbox.com/1f/f8/5MxjMfjs_o.jpg",
+        "description1": "Article en cours de rédaction",
+        "description2": "Prochainement disponible"
     }
 ]
