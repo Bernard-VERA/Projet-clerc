@@ -26,6 +26,7 @@
   @media screen and (max-width: 768px) {
     .footer {
       margin-top: 0px;
+      height: 210px;
     }
     .footer .footer-text {
       max-width: 133px;
