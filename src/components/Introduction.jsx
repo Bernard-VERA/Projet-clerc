@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/Introduction.css';
 
-const Intro = () => {
+const Introduction = () => {
     return(
         <section className="intro">
             <h2 className="intro-title">Bienvenue sur le Portail des clercs du Commissaire de Justice
@@ -12,4 +12,4 @@ const Intro = () => {
     )
 }
 
-export default Intro
+export default Introduction
