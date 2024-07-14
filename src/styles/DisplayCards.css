@@ -45,7 +45,7 @@
     z-index: 1;
     bottom: 0;
     left: 0;
-    background: linear-gradient(rgba(255, 255, 255, 0), rgba(10, 10, 10, 0.4), rgba(4, 4, 4, 0.2), rgba(0, 0, 0, 0.5));
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(10, 10, 10, 0.4), rgba(4, 4, 4, 0.6), rgba(0, 0, 0, 0.8));
     border-radius: 10px;
   }
   .article-figure-figcaption-title {
