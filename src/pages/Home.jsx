@@ -3,6 +3,7 @@ import image_home from '../assets/banniere3.jpg';
 import Introduction from "../components/Introduction"
 import DisplayCards from "../components/DisplayCards"
 import Convention from "../components/Convention"
+import DisplayCollectives from "../components/DisplayCollectives";
 import '../styles/Home.css'
 
 export default function Home () {
@@ -16,6 +17,7 @@ export default function Home () {
             <Introduction />
             <DisplayCards />
             <Convention />
+            <DisplayCollectives />
         </main>
     )
 }
