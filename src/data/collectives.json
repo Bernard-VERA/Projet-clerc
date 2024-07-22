@@ -4,7 +4,9 @@
         "title": "Le salaire",
         "cover": "https://images2.imgbox.com/96/1a/E0gmU9Dl_o.jpg",
         "picture": "https://images2.imgbox.com/96/1a/E0gmU9Dl_o.jpg",
-        "url": ""
+        "description1": "Depuis le 1er juillet 2022, la profession de commissaire de justice est effective. Cette dernière regroupe les ex-huissiers de justice et ex-commissaires-priseurs judiciaires. La convention collective nationale applicable aux salariés de cette nouvelle profession est entrée en vigueur le 1er octobre 2023.",
+        "description2": "La grille des salaires ci-dessous regroupe toutes les catégories et échellons de la profession. Il y a actuellement un grand flou sur cette grille salariale. L'avenant ne serait pas étendu, c'est à dire que le texte ne serait pas obligatoirement applicable. Des négociations salariales très dures sont en cours entre le collège patronal et les syndicats. De plus, plusieurs catégories seraient en dessous du SMIC. Pas de nouvelles pour l'instant. Je vous informerai des avancées sur ce sujet dés que possible",
+        "image": "https://images2.imgbox.com/09/79/SYBzE5aM_o.jpg"
         },
 
     {
@@ -12,7 +14,9 @@
         "title": "Les congés",
         "cover": "https://images2.imgbox.com/62/83/nAcvN7Nu_o.jpg",
         "picture": "https://images2.imgbox.com/62/83/nAcvN7Nu_o.jpg",
-        "url": ""
+        "description1": "",
+        "description2": "PAGE EN COURS DE CRÉATION - Un peu de patience - Vous aurez bientôt tout le détail sur vos droits aux congés.",
+        "image": "https://images2.imgbox.com/63/e1/5kHRcoIb_o.jpg"
         },
             
     {
@@ -20,6 +24,8 @@
         "title": "La retraite",
         "cover": "https://images2.imgbox.com/21/a5/MBLMjKOi_o.jpg",
         "picture": "https://images2.imgbox.com/21/a5/MBLMjKOi_o.jpg",
-        "url": ""
+        "description1": "",
+        "description2": "PAGE EN COURS DE CRÉATION - Un peu de patience - Vous aurez bientôt tout le détail sur vos droits à la retraite.",
+        "image": "https://images2.imgbox.com/63/e1/5kHRcoIb_o.jpg"
         }   
 ]
