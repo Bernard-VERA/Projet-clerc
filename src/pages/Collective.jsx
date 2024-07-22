@@ -25,7 +25,8 @@ const Collective = () => {
                   <p className='collective-page-header-infos-title'>{collective.title}</p>
                   <p className='collective-page-header-infos-subtitle'>{collective.description1}</p>
                   <p className='collective-page-header-infos-subtitle'>{collective.description2}</p>
-                  <img src = {collective.image} alt="illustration"/>  
+                  <img src = {collective.image} alt="illustration"/>
+                  <p className='collective-page-header-infos-subtitle'>{collective.description3}</p>
               </article>   
           </header>
           <main className='collective-main'>
