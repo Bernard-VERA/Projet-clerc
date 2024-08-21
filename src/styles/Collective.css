@@ -45,7 +45,10 @@
     margin-top: 0px;
     margin-bottom: 40px;
     text-align: justify;
-   
+  }
+
+  .collective-page-header-infos img{
+    padding-bottom: 20px;
   }
 
   .collective-main {
