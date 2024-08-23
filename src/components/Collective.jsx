@@ -11,7 +11,7 @@ const Collective = ({ id, title, cover }) => {
                     </figcaption>
                 </figure>
             </a> 
-        </li> // "li" crée une liste des collecives
+        </li> // "li" crée une liste des collectives
     ) // "key" identifie tous les éléments, afin d'éviter des clés manquantes
 }
 

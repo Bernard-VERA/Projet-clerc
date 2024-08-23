@@ -15,7 +15,9 @@ const Collective = () => {
   const collective = collectives.find(collective => collective.id === id)
   if (collective === undefined) {
     return <Error />
-  } // Si l'collective est "undefined" on est renvoyé vers la page d'erreur
+  } // Si collective est "undefined" on est renvoyé vers la page d'erreur
+   
+   
 
   return (
       <section className='collective-page'>
@@ -27,6 +29,22 @@ const Collective = () => {
                   <p className='collective-page-header-infos-subtitle'>{collective.description2}</p>
                   <img src = {collective.image} alt="illustration"/>
                   <p className='collective-page-header-infos-subtitle'>{collective.description3}</p>
+                  <ul >
+                    <li className='collective-page-header-infos-list'>{collective.text1}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text2}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text3}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text4}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text5}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text6}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text7}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text8}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text9}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text10}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text11}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text12}</li>
+                    <li className='collective-page-header-infos-list'>{collective.text13}</li>
+                  </ul>
+                  <p className='collective-page-header-infos-subtitle'>{collective.description4}</p>
               </article>   
           </header>
           <main className='collective-main'>

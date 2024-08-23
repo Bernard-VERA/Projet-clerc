@@ -47,8 +47,20 @@
     text-align: justify;
   }
 
-  .collective-page-header-infos img{
+  .collective-page-header-infos img {
     padding-bottom: 20px;
+  }
+
+  .collective-page-header-infos ul {
+    margin-bottom: 35px;
+  }
+
+  .collective-page-header-infos-list {
+    list-style: none;
+    text-align:left;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-right: 20px;
   }
 
   .collective-main {
@@ -81,6 +93,10 @@
     }
 
     .collective-page-header-infos-subtitle {
+      font-size: 14px;
+    }
+
+    .collective-page-header-infos-list {
       font-size: 14px;
     }
    
