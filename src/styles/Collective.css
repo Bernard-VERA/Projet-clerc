@@ -52,7 +52,8 @@
   }
 
   .collective-page-header-infos ul {
-    margin-bottom: 35px;
+    margin: 0px 35px 35px 35px;
+    padding: 0;
   }
 
   .collective-page-header-infos-list {
@@ -60,7 +61,6 @@
     text-align:left;
     font-size: 18px;
     margin-bottom: 15px;
-    margin-right: 20px;
   }
 
   .collective-main {
