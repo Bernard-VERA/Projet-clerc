@@ -7,7 +7,7 @@ const Collective = ({ id, title, cover }) => {
                 <figure className='collective-figure'>
                     <img src={cover} alt={title}  className='collective-figure-cover'/>
                     <figcaption className='collective-figure-figcaption'>
-                        <h2 className='collective-figure-figcaption-title'>{title}</h2>
+                        <h3 className='collective-figure-figcaption-title'>{title}</h3>
                     </figcaption>
                 </figure>
             </a> 

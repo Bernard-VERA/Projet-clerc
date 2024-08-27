@@ -7,7 +7,7 @@ const Card = ({ id, title, cover }) => {
                 <figure className='article-figure'>
                     <img src={cover} alt={title}  className='article-figure-cover'/>
                     <figcaption className='article-figure-figcaption'>
-                        <h2 className='article-figure-figcaption-title'>{title}</h2>
+                        <h3 className='article-figure-figcaption-title'>{title}</h3>
                     </figcaption>
                 </figure>
             </a> 
