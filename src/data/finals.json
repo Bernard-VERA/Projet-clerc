@@ -1,0 +1,30 @@
+[
+    {
+        "id": "t0018",
+        "title": "Voir la convention collective",
+        "cover": "https://images2.imgbox.com/c9/02/tVpOxoBH_o.jpg",
+        "picture": "https://images2.imgbox.com/c9/02/tVpOxoBH_o.jpg",
+        "description1": "Cliquez sur l'image ci-dessous pour voir directement l'intégralité de la Convention Collective, sur le site officiel de Légifrance :",
+        "url": "https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000047802239"
+        
+    },
+
+    {
+        "id": "u0019",
+        "title": "Voir la mise en page de l'acte",
+        "cover": "https://images2.imgbox.com/7d/7c/OgaS1Ar9_o.jpg",
+        "picture": "https://images2.imgbox.com/7d/7c/OgaS1Ar9_o.jpg",
+        "description1": "En cliquant sur l'image ci-dessous, vous accédez au site Légifrance. Vous y trouverez un Arrêté du 21 Mars 2023 qui fixe les normes de présentation des actes et procès-verbaux des commissaires de justice :",
+        "url":"https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047334731/"
+    },
+
+    {
+        "id": "v0020",
+        "title": "Voir le site LE CLERC D'HUISSIER",
+        "cover": "https://images2.imgbox.com/ed/9c/ZEVE1DlZ_o.jpg",
+        "picture": "https://images2.imgbox.com/ed/9c/ZEVE1DlZ_o.jpg",
+        "description1": "En cliquant sur l'image ci-dessous, vous serez dirigé vers l'ancien site LE CLERC D'HUISSIER. Ce site n'est plus à jour. Il était fondé sur l'ancienne convention collective. Toutefois, vous pourrez y trouver des renseignements utiles, notament dans le forum et les téléchargements des anciens avenants",
+        "url":"http://clercdhuissier.free.fr/"
+    }
+
+]

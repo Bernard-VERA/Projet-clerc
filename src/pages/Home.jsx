@@ -6,6 +6,7 @@ import Convention from "../components/Convention"
 import DisplayCollectives from "../components/DisplayCollectives";
 import Extras from "../components/Extras"
 import '../styles/Home.css'
+import DisplayEnds from "../components/DisplayEnds";
 
 export default function Home () {
 
@@ -20,6 +21,7 @@ export default function Home () {
             <Convention />
             <DisplayCollectives />
             <Extras />
+            <DisplayEnds />
         </main>
     )
 }

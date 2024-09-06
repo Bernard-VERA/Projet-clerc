@@ -26,11 +26,16 @@
     margin-block: 0;
     margin: 23px;
     position: relative;
+    box-shadow: 8px 8px  11px #b9b9b9;
+    -moz-box-shadow: 8px 8px  11px #b9b9b9;
+    -webkit-box-shadow: 8px 8px  11px #b9b9b9;
     transition: 0.25s;
   }
+
   .article-figure:hover {
     transform: scale(1.02);
   }
+
   .article-figure-cover {
     width: 100%;
     -o-object-fit: cover;

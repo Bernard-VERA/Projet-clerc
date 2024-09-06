@@ -1,4 +1,4 @@
-.collectives-container {
+.ends-container {
     width: 100%;
     margin: 32px auto 40px;
     border-radius: 25px;
@@ -6,7 +6,7 @@
     max-width: 1240px;
   }
   
-  .collectives-list {
+  .ends-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
@@ -14,11 +14,11 @@
     list-style-type: none;
   }
   
-  .collective {
+  .end {
     width: 33.3%;
   }
   
-  .collective-figure {
+  .end-figure {
     align-items: center;
     border-radius: 0.5rem;
     display: flex;
@@ -31,17 +31,17 @@
     -webkit-box-shadow: 8px 8px  11px #b9b9b9;
     transition: 0.25s;
   }
-  .collective-figure:hover {
+  .end-figure:hover {
     transform: scale(1.02);
   }
-  .collective-figure-cover {
+  .end-figure-cover {
     width: 100%;
     -o-object-fit: cover;
        object-fit: cover;
     height: 290px;
     border-radius: 10px;
   }
-  .collective-figure-figcaption {
+  .end-figure-figcaption {
     height: 100px;
     position: absolute;
     width: 100%;
@@ -51,7 +51,7 @@
     background: linear-gradient(rgba(255, 255, 255, 0), rgba(10, 10, 10, 0.4), rgba(4, 4, 4, 0.6), rgba(0, 0, 0, 0.8));
     border-radius: 10px;
   }
-  .collective-figure-figcaption-title {
+  .end-figure-figcaption-title {
     position: absolute;
     bottom: 0px;
     left: 20px;
@@ -62,26 +62,26 @@
 
   
   @media screen and (min-width: 768px) and (max-width: 1024px) {
-    .collective {
+    .end {
       width: 50%;
     }
   }
   @media screen and (max-width: 768px) {
-    .collectives-container {
+    .ends-container {
       background-color: #FFFFFF;
       margin: 0;
     }
-    .collectives-list {
+    .ends-list {
       padding: 0;
     }
-    .collective {
+    .end {
       width: 100%;
     }
-    .collective-figure {
+    .end-figure {
       margin: auto;
       margin-bottom: 20px;
     }
-    .collective-figure-cover {
+    .end-figure-cover {
       height: 255px;
     }
   }
