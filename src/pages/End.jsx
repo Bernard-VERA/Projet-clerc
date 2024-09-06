@@ -19,7 +19,6 @@ const End = () => {
 
   return (
       <section className='end-page'>
-        
           <header className='end-page-header'>
               <article className='end-page-header-infos'>
                   <p className='end-page-header-infos-title'>{end.title}</p>
