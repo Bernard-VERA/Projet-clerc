@@ -5,7 +5,7 @@ const Card = ({ id, title, cover }) => {
         <li key={id} className='article'> 
             <a href={'/article/' + id}>
                 <figure className='article-figure'>
-                    <img src={cover} alt={title}  className='article-figure-cover'/>
+                    <img src={cover} alt="" width="720" height="300" className='article-figure-cover'/>
                     <figcaption className='article-figure-figcaption'>
                         <h3 className='article-figure-figcaption-title'>{title}</h3>
                     </figcaption>

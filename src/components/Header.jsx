@@ -6,9 +6,9 @@ import '../styles/Header.css';
 function Header() {
     return (
         <header className='header-container'>
-            <Link  to="/">
-                <img className='logo' src={logo} alt="logo kasa"/>
-            </Link>
+           
+                <img className='logo' src={logo} alt="maison de justice"/>
+            
             <nav className="navbar">
                 <div className="navlink">
                     <Link className="nav" to="/">Accueil</Link>

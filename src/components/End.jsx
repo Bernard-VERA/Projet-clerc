@@ -6,7 +6,7 @@ const End = ({ id, title, cover }) => {
         <li key={id} className='end'> 
             <a href={'/end/' + id}>
                 <figure className='end-figure'>
-                    <img src={cover} alt={title}  className='end-figure-cover'/>
+                    <img src={cover} alt="" width="720" height="300" className='end-figure-cover'/>
                     <figcaption className='end-figure-figcaption'>
                         <h3 className='end-figure-figcaption-title'>{title}</h3>
                     </figcaption>

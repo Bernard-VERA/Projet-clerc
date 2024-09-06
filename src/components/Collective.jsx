@@ -5,7 +5,7 @@ const Collective = ({ id, title, cover }) => {
         <li key={id} className='collective'> 
             <a href={'/collective/' + id}>
                 <figure className='collective-figure'>
-                    <img src={cover} alt={title}  className='collective-figure-cover'/>
+                    <img src={cover} alt="" width="720" height="300"  className='collective-figure-cover'/>
                     <figcaption className='collective-figure-figcaption'>
                         <h3 className='collective-figure-figcaption-title'>{title}</h3>
                     </figcaption>
