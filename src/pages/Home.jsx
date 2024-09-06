@@ -4,6 +4,7 @@ import Introduction from "../components/Introduction"
 import DisplayCards from "../components/DisplayCards"
 import Convention from "../components/Convention"
 import DisplayCollectives from "../components/DisplayCollectives";
+import Extras from "../components/Extras"
 import '../styles/Home.css'
 
 export default function Home () {
@@ -18,6 +19,7 @@ export default function Home () {
             <DisplayCards />
             <Convention />
             <DisplayCollectives />
+            <Extras />
         </main>
     )
 }

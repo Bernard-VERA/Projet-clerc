@@ -11,7 +11,7 @@ const Card = ({ id, title, cover }) => {
                     </figcaption>
                 </figure>
             </a> 
-        </li> // "li" crée une liste des logements
+        </li> // "li" crée une liste des articles
     ) // "key" identifie tous les éléments, afin d'éviter des clés manquantes
 }
 
