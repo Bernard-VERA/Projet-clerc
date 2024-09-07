@@ -49,6 +49,7 @@
 
   .collective-page-header-infos img {
     padding-bottom: 20px;
+    max-width: 60%;
   }
 
   .collective-page-header-infos ul {
