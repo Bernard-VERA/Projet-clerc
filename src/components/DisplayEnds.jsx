@@ -3,7 +3,7 @@ import ends from '../data/finals.json'
 import End from './End'
 import '../styles/DisplayEnds.css'
 
-//DisplayEndss permet d'afficher les "Ends" créés
+//DisplayEnds permet d'afficher les "Ends" créés
 const DisplayEnds = () => {
     return(
         <section className='ends-container'>

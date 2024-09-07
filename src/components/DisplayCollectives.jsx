@@ -3,7 +3,7 @@ import collectives from '../data/collectives.json'
 import Collective from './Collective'
 import '../styles/DisplayCollectives.css'
 
-//DisplayCards permet d'afficher les "Collectives" créées
+//DisplayCollectives permet d'afficher les "Collectives" créées
 const DisplayCollectives = () => {
     return(
         <section className='collectives-container'>

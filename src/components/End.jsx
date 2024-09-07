@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const End = ({ id, title, cover }) => {
     return(
         <li key={id} className='end'> 
