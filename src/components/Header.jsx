@@ -7,7 +7,7 @@ function Header() {
     return (
         <header className='header-container'>
            
-                <img className='logo' src={logo} alt="maison de justice"/>
+                <img className='logo' src={logo} width="190" height="68" alt="maison de justice"/>
             
             <nav className="navbar">
                 <div className="navlink">
