@@ -97,6 +97,10 @@
       font-size: 14px;
     }
 
+    .collective-page-header-infos ul {
+      margin: 0px 12px 35px 10px;
+    }
+
     .collective-page-header-infos-list {
       font-size: 14px;
     }
