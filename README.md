@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# SITE PERSONNEL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Le clerc de commissaire de justice
 
-## Available Scripts
+## Informations  
 
-In the project directory, you can run:
+Clonez le projet. Ouvrez votre éditeur de code. Dans le répertoire du projet, tapez la commande suivante dans le terminal : `npm start`.
+Cela exécute l’application en mode développement sur le port 3000.
+Ouvrez "http://localhost:3000" pour l’afficher dans votre navigateur.
+La page se recharge automatiquement lorsque vous apportez des modifications.
+Vous pouvez également voir les erreurs signalées par Eslint dans la console.  
 
-### `npm start`
+---  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---  
 
-### `npm test`
+## Scénario
+Créér un site web dédié aux employés des commissaires de justice. Ce portail sera conçu pour offrir un accès facile et rapide, à toutes les informations essentielles. Il pourra aussi être utile à ceux qui désirent entrer dans cette profession. Il s'agit principalement d'articles basés sur la convention collective des commissaires de justice.
+Mon ancien site "LE CLERC D'HUISSIER" était obsolète et démodé. Impossible de le mettre à jour. J'ai donc décidé d'en créér un nouveau, plus moderne et mieux sécurisé. De plus, suite à une réforme de la profession, la convention collective a changé. Le nouveau site doit donc prendre en compte tous les changements qui ont été effectués.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Compétences
+En partant de zéro, j'ai utilisé "Creat react app" pour créér cette "Single page application". Pour plus de fluidité, pas de base de données. Cela est idéal au niveau du Green IT. J'ai créé des fichiers JSON pour stocker les textes. Des fonctions Javascript permettent de récupérer images et textes, et de les afficher dans des composants réutilisables. J'ai travaillé dans un repository Github et le site est hébergé gratuitement sur Vercel. Le site est adapté aux formats Dektop, Tablette et Mobile ( Responsive Design ). Contrôle du score Lighthouse, vérification de l'accessibilité avec Wave, SEO, vérification des erreurs avec les Chrome DevTools, liens vers d'autres sites. Tout a été vérifié. Ce site semble fonctionnel. Il est indexé par Google. Cet exercice m'a permis de voir les limites d'une "Single page application", notament au niveau du référencement : Une seule page, donc un référencement réduit.
