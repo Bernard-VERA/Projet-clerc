@@ -25,3 +25,9 @@ Mon ancien site "LE CLERC D'HUISSIER" était obsolète et démodé. Impossible d
 
 ## Compétences
 En partant de zéro, j'ai utilisé "Creat react app" pour créér cette "Single page application". Pour plus de fluidité, pas de base de données. Cela est idéal au niveau du Green IT. J'ai créé des fichiers JSON pour stocker les textes. Des fonctions Javascript permettent de récupérer images et textes, et de les afficher dans des composants réutilisables. J'ai travaillé dans un repository Github et le site est hébergé gratuitement sur Vercel. Le site est adapté aux formats Dektop, Tablette et Mobile ( Responsive Design ). Contrôle du score Lighthouse, vérification de l'accessibilité avec Wave, SEO, vérification des erreurs avec les Chrome DevTools, liens vers d'autres sites. Tout a été vérifié. Ce site semble fonctionnel. Il est indexé par Google. Cet exercice m'a permis de voir les limites d'une "Single page application", notament au niveau du référencement : Une seule page, donc un référencement réduit.
+
+----
+
+<p align="center" width="100%">
+    <img width="90%" src="https://github.com/Bernard-VERA/Projet-clerc/blob/main/src/assets/clerc.jpg"> 
+</p>
