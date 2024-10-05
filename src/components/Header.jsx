@@ -14,6 +14,9 @@ function Header() {
                     <Link className="nav" to="/">Accueil</Link>
                 </div>
                 <div className="navlink">
+                    <Link className="nav" to="https://clerc-d-huissier.forumactif.com/" target='_blank'>Forum</Link>
+                </div>
+                <div className="navlink">
                     <Link className="nav" to="About">À Propos</Link>
                 </div>
             </nav>
