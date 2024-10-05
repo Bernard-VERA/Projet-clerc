@@ -39,6 +39,7 @@
     }
     .header-container {
       padding: 0px 20px 5px 20px;
+      height: auto;
     }
     .header-container .logo {
       height: 35px;
