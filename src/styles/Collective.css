@@ -45,6 +45,7 @@
     margin-top: 0px;
     margin-bottom: 40px;
     text-align: justify;
+    white-space: pre-line;
   }
 
   .collective-page-header-infos img {
