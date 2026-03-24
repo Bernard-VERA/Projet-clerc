@@ -16,6 +16,7 @@ Vous pouvez également voir les erreurs signalées par Eslint dans la console.
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/VITE-323330?style=for-the-badge&logo=vite&logoColor=white)
 ![image](https://img.shields.io/badge/VERCEL-lightgrey?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---  
@@ -26,6 +27,21 @@ Mon ancien site "LE CLERC D'HUISSIER" était obsolète et démodé. Impossible d
 
 ## Compétences
 En partant de zéro, j'ai utilisé "Creat react app" pour créér cette "Single page application". Pour plus de fluidité, pas de base de données. Cela est idéal au niveau du Green IT. J'ai créé des fichiers JSON pour stocker les textes. Des fonctions Javascript permettent de récupérer images et textes, et de les afficher dans des composants réutilisables. J'ai travaillé dans un repository Github et le site est hébergé gratuitement sur Vercel. Le site est adapté aux formats Desktop, Tablette et Mobile ( Responsive Design ). Contrôle du score Lighthouse, vérification de l'accessibilité avec Wave, SEO, vérification des erreurs avec les Chrome DevTools, liens vers d'autres sites. Tout a été vérifié. Ce site semble fonctionnel. Il est indexé par Google et apparait dans les premières pages de la recherche "Clerc de commissaire de justice". Cet exercice m'a permis de voir les limites d'une "Single page application", notament au niveau du référencement : Une seule page, donc un référencement limité.
+
+## Migration du site vers VITE
+Le site avait été initialement développé en février 2024 avec Create React App et Node.js 20.11.1.  
+Create React App ayant été déprécié en 2025, plusieurs dépendances sont devenues obsolètes et certaines vulnérabilités n’étaient plus corrigées. <br> 
+J’ai donc entrepris une migration complète vers :
+- Vite, un bundler moderne, plus rapide et maintenu
+- Node.js 24.14.0, dernière version LTS au moment de la migration  
+
+Cette mise à jour permet désormais au projet d’être :
+- plus performant
+- plus léger
+- plus simple à maintenir
+- sans vulnérabilités connues<br>  
+
+Le site est maintenant entièrement à jour et bénéficie d’un environnement moderne et sécurisé. 
 
 ----
 
