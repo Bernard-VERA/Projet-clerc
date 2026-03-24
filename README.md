@@ -4,9 +4,9 @@
 
 ## Informations  
 
-Clonez le projet. Ouvrez votre éditeur de code. Dans le répertoire du projet, tapez la commande suivante dans le terminal : `npm start`.
-Cela exécute l’application en mode développement sur le port 3000.
-Ouvrez "http://localhost:3000" pour l’afficher dans votre navigateur.
+Clonez le projet. Ouvrez votre éditeur de code. Dans le répertoire du projet, tapez la commande suivante dans le terminal : `npm install` puis `npm run dev`.
+Cela exécute l’application en mode développement sur le port 5173.
+Ouvrez "http://localhost:5173" pour l’afficher dans votre navigateur.
 La page se recharge automatiquement lorsque vous apportez des modifications.
 Vous pouvez également voir les erreurs signalées par Eslint dans la console.  
 
@@ -29,7 +29,7 @@ Mon ancien site "LE CLERC D'HUISSIER" était obsolète et démodé. Impossible d
 En partant de zéro, j'ai utilisé "Creat react app" pour créér cette "Single page application". Pour plus de fluidité, pas de base de données. Cela est idéal au niveau du Green IT. J'ai créé des fichiers JSON pour stocker les textes. Des fonctions Javascript permettent de récupérer images et textes, et de les afficher dans des composants réutilisables. J'ai travaillé dans un repository Github et le site est hébergé gratuitement sur Vercel. Le site est adapté aux formats Desktop, Tablette et Mobile ( Responsive Design ). Contrôle du score Lighthouse, vérification de l'accessibilité avec Wave, SEO, vérification des erreurs avec les Chrome DevTools, liens vers d'autres sites. Tout a été vérifié. Ce site semble fonctionnel. Il est indexé par Google et apparait dans les premières pages de la recherche "Clerc de commissaire de justice". Cet exercice m'a permis de voir les limites d'une "Single page application", notament au niveau du référencement : Une seule page, donc un référencement limité.
 
 ## Migration du site vers VITE
-Le site avait été initialement développé en février 2024 avec Create React App et Node.js 20.11.1.  
+Le site avait été initialement développé en Juillet 2024 avec Create React App et Node.js 20.11.1.  
 Create React App ayant été déprécié en 2025, plusieurs dépendances sont devenues obsolètes et certaines vulnérabilités n’étaient plus corrigées. <br> 
 J’ai donc entrepris une migration complète vers :
 - Vite, un bundler moderne, plus rapide et maintenu
