@@ -24,7 +24,6 @@ Vous pouvez également voir les erreurs signalées par Eslint dans la console.
 ## Scénario
 Créér un site web dédié aux employés des commissaires de justice.  
 Ce portail sera conçu pour offrir un accès facile et rapide, à toutes les informations essentielles. Il pourra aussi être utile à ceux qui désirent entrer dans cette profession. Il s'agit principalement d'articles basés sur la convention collective des commissaires de justice.  
-
 Mon ancien site "LE CLERC D'HUISSIER" était obsolète et démodé. Impossible de le mettre à jour. J'ai donc décidé d'en créér un nouveau, plus moderne et mieux sécurisé.  
 De plus, suite à une réforme de la profession, la convention collective a changé. Le nouveau site doit donc prendre en compte tous les changements qui ont été effectués.
 
